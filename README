@@ -1,0 +1,25 @@
+# Project Name
+
+This project is a collection of HTML pages, including a personal resume, skills, and other details. It was built for the ITMD-361 class as part of the assignment on HTML forms, web development, and project structuring.
+
+## Project Description
+
+This project consists of three HTML pages:
+1. **Resume**: A professional resume page with details about skills, education, and work experience.
+2. **Skills**: A page that lists and explains the various programming and technical skills.
+3. **Welcome**: A simple welcome page with links to the resume and skills pages.
+
+## Features
+- HTML form submission
+- Navigation between pages
+- Responsive design (no CSS used)
+
+## How to Use
+1. Clone this repository:
+2. Open any of the HTML files (e.g., `index.html`, `resume.html`, or `skills.html`) in your browser to view the pages.
+
+## Contributions
+Feel free to contribute by opening issues or submitting pull requests.
+
+## License
+This project is licensed under the MIT License.
